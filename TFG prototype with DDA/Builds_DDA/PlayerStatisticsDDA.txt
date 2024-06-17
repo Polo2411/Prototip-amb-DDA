@@ -1,0 +1,7 @@
+Player Statistics DDA:
+Last level: Level1n
+Deaths: 0
+Hits: 0
+Dashes: 0
+Charged Projectiles: 0
+Total time of 10 levels: 0 seconds
